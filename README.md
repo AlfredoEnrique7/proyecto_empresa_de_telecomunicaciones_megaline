@@ -6,7 +6,7 @@ El objetivo central de este proyecto es realizar un análisis comparativo prelim
 Los resultados y conclusiones obtenidos permitirán al departamento de marketing y estrategia comercial optimizar de manera eficiente la asignación del presupuesto de publicidad para el próximo ciclo fiscal.
 
 
-## Conclusiones Clave
+## Conclusiones
 
 ### I. Decisiones críticas en el procesamiento y análisis de datos
 La forma final del análisis estuvo determinada por una serie de suposiciones y reglas técnicas fundamentales adoptadas en la fase de preparación, garantizando la trazabilidad y precisión del pipeline de datos:
