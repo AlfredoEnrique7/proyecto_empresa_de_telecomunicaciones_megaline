@@ -1,4 +1,4 @@
-# Proyecto Empresa de Telecomunicaciones Megaline
+# Proyecto empresa de telecomunicaciones Megaline
 
 ## Descripción
 El objetivo central de este proyecto es realizar un análisis comparativo preliminar entre las tarifas de prepago **Surf** y **Ultimate** de la empresa de telecomunicaciones **Megaline**. Mediante la evaluación del comportamiento de consumo de una muestra representativa de 500 clientes durante el año 2018, se busca identificar **cuál de los dos planes genera un mayor volumen de ingresos comerciales**. 
